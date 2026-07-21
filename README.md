@@ -1,0 +1,1 @@
+# braskem-portal-app-redirect
